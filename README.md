@@ -1,5 +1,6 @@
 # !!! WIP !!!
-* April 22, 2025: preparing telemetry firmware for ESP8266/ESP32 hardware detection
+The sub projects are in process of generalization and will be published one after another in the upcoming weeks. 
+* April 22, 2025: preparing the first project, the telemetry firmware for ESP8266/ESP32 hardware detection
 
 <br><br><br><br><br>
 # IoT Telemetry Scale 📡⚖️
@@ -9,6 +10,12 @@ A modular open-source system for wireless weight sensing, live telemetry, and re
 **This is the meta repository** linking all parts of the project ecosystem.
 
 ---
+
+## How it started
+
+Me and my wife were involved in animal protection specifically working to help budgies for quite aome years. Nursing the little animals, often more or less sick ones, requires to weigh them from time to time because the weight is an important metric regarding possible health problems. As catching the little birds is very stressful and counter acts their well being.
+So, combining my every day job as a programmer with my interest and knowledge of electronics, I came up with the idea to build a scale which fits under a feeding bowl of the budgies (pictures coming up).
+That's a quick wrapup of the history of the project and might be extended in the future.
 
 ## 🔧 What It Does
 

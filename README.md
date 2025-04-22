@@ -19,12 +19,12 @@ That's a quick wrapup of the history of the project and might be extended in the
 
 ## 🔧 What It Does
 
-- 📏 Measures weight via load cell & HX711
-- 📶 Publishes readings via MQTT
-- 🎥 Streams live video with snapshots
-- 🧠 Stores and organizes measurements per individual
-- 📊 Displays charts, dashboards, and historical data
-- 🏠 Integrates with Home Assistant & ioBroker
+- 📏 Measures weight via load cell & HX711 with ESP8266 or ESP32 as basis
+- 📶 Publishes readings via MQTT continuously (roughly one value every second)
+- 🎥 Streams live video with snapshots (via a RaspberryPi and a RaspiCam)
+- 🧠 Stores and organizes measurements per individual (via a minimal and simple nodejs websocket backend using a json file and a python nicegui frontend (running on a RaspberryPi in my case))
+- 📊 Displays historical data as charts on iobroker or Homeassistant dashboards (running on RaspberryPi's) 
+- 🏠 Integrates with Home Assistant & ioBroker (see above)
 - 💡 Designed to be flexible, low-stress, and extensible
 
 ---
@@ -33,7 +33,7 @@ That's a quick wrapup of the history of the project and might be extended in the
 
 | Component | Description | Repository |
 |----------|-------------|------------|
-| 🧠 Firmware | ESP8266-based MQTT weight publisher | [iot-telemetry-scale-firmware](https://github.com/yourusername/iot-telemetry-scale-firmware) |
+| 🧠 Firmware | ESP8266-based MQTT weight publisher | [iot-telemetry-scale-firmware](https://github.com/yourusername/iot-telemetry-scale-firmware) (in progress) |
 | 🔌 PCB | KiCad PCB design for ESP8266 + HX711 | [iot-telemetry-scale-pcb](https://github.com/yourusername/iot-telemetry-scale-pcb) |
 | 🧱 Housing | FreeCAD model of scale casing | [iot-telemetry-scale-housing](https://github.com/yourusername/iot-telemetry-scale-housing) |
 | 📸 Streamer | Python + PiCamera live MJPEG + snapshot handler | [iot-telemetry-scale-streamer](https://github.com/yourusername/iot-telemetry-scale-streamer) |

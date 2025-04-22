@@ -46,7 +46,7 @@ That's a quick wrapup of the history of the project and might be extended in the
 
 ## 📚 Documentation
 
-- [System Architecture](docs/architecture.md)
+- [System Architecture](docs/ARCHITECTURE.md)
 - [MQTT Topic Format](docs/mqtt.md) *(to create)*
 - [Data Format / JSON Spec](docs/data-structure.md) *(to create)*
 - [Naming + Contribution Guidelines](CONTRIBUTING.md)

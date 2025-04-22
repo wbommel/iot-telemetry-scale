@@ -16,6 +16,7 @@ A modular open-source system for wireless weight sensing, live telemetry, and re
 Me and my wife were involved in animal protection specifically working to help budgies for quite aome years. Nursing the little animals, often more or less sick ones, requires to weigh them from time to time because the weight is an important metric regarding possible health problems. As catching the little birds is very stressful and counter acts their well being.
 So, combining my every day job as a programmer with my interest and knowledge of electronics, I came up with the idea to build a scale which fits under a feeding bowl of the budgies (pictures coming up).
 That's a quick wrapup of the history of the project and might be extended in the future.
+<br>
 <img src="/assets/img/WeighingScale_Current.jpg" alt="Our current setup" width="200"/>
 
 ## 🔧 What It Does

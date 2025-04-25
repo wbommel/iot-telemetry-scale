@@ -1,5 +1,6 @@
 # !!! WIP !!!
 The sub projects are in process of generalization and will be published one after another in the upcoming weeks. 
+* April 25, 2025: done preparing the firmware project (tested with ESP32 and ESP8266, generalized calibration process)
 * April 22, 2025: preparing the first project, the telemetry firmware for ESP8266/ESP32 hardware detection
 
 <br><br><br><br><br>

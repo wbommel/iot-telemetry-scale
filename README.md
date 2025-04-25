@@ -44,14 +44,14 @@ That's a quick wrapup of the history of the project and might be extended in the
 
 | Component | Description | Repository |
 |----------|-------------|------------|
-| 🧠 Firmware | ESP8266-based MQTT weight publisher | [iot-telemetry-scale-firmware](https://github.com/yourusername/iot-telemetry-scale-firmware) (done) |
-| 🔌 PCB | KiCad PCB design for ESP8266 + HX711 | [iot-telemetry-scale-pcb](https://github.com/yourusername/iot-telemetry-scale-pcb) (upcoming) |
-| 🧱 Housing | FreeCAD model of scale casing | [iot-telemetry-scale-housing](https://github.com/yourusername/iot-telemetry-scale-housing) (upcoming) |
-| 📸 Streamer | Python + PiCamera live MJPEG + snapshot handler | [iot-telemetry-scale-streamer](https://github.com/yourusername/iot-telemetry-scale-streamer) (upcoming) |
-| 🔌 Server | Node.js-based WebSocket JSON database | [iot-telemetry-scale-server](https://github.com/yourusername/iot-telemetry-scale-server) (upcoming) |
-| 💻 UI | NiceGUI frontend for individuals & weights | [iot-telemetry-scale-client](https://github.com/yourusername/iot-telemetry-scale-client) (upcoming) |
-| 🏠 HA Config | Home Assistant MQTT dashboard setup | [iot-telemetry-scale-ha](https://github.com/yourusername/iot-telemetry-scale-ha) (upcoming) |
-| 📈 ioBroker | ioBroker setup, MQTT & charts | [iot-telemetry-scale-iobroker](https://github.com/yourusername/iot-telemetry-scale-iobroker) (upcoming) |
+| 🧠 Firmware | ESP8266-based MQTT weight publisher | [iot-telemetry-scale-firmware](https://github.com/wbommel/iot-telemetry-scale-firmware) (done) |
+| 🔌 PCB | KiCad PCB design for ESP8266 + HX711 | [iot-telemetry-scale-pcb](https://github.com/wbommel/iot-telemetry-scale-pcb) (upcoming) |
+| 🧱 Housing | FreeCAD model of scale casing | [iot-telemetry-scale-housing](https://github.com/wbommel/iot-telemetry-scale-housing) (upcoming) |
+| 📸 Streamer | Python + PiCamera live MJPEG + snapshot handler | [iot-telemetry-scale-streamer](https://github.com/wbommel/iot-telemetry-scale-streamer) (upcoming) |
+| 🔌 Server | Node.js-based WebSocket JSON database | [iot-telemetry-scale-server](https://github.com/wbommel/iot-telemetry-scale-server) (upcoming) |
+| 💻 UI | NiceGUI frontend for individuals & weights | [iot-telemetry-scale-client](https://github.com/wbommel/iot-telemetry-scale-client) (upcoming) |
+| 🏠 HA Config | Home Assistant MQTT dashboard setup | [iot-telemetry-scale-ha](https://github.com/wbommel/iot-telemetry-scale-ha) (upcoming) |
+| 📈 ioBroker | ioBroker setup, MQTT & charts | [iot-telemetry-scale-iobroker](https://github.com/wbommel/iot-telemetry-scale-iobroker) (upcoming) |
 
 ---
 

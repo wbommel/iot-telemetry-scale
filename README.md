@@ -3,11 +3,20 @@ The sub projects are in process of generalization and will be published one afte
 * April 22, 2025: preparing the first project, the telemetry firmware for ESP8266/ESP32 hardware detection
 
 <br><br><br><br><br>
+
 # IoT Telemetry Scale 📡⚖️
 
 A modular open-source system for wireless weight sensing, live telemetry, and remote monitoring — designed for small animals, feeding stations, or general-purpose IoT measurement.
 
 **This is the meta repository** linking all parts of the project ecosystem.
+
+> ⚠️ **Disclaimer**
+> 
+> This project is the result of personal experimentation and learning. I am a hobbyist and not a certified electronics engineer, nor an expert in load cell calibration or metrology.
+> 
+> While the system works well in my own setup (and with budgies 🐦!), it may require adaptation, validation, and care before use in other environments—especially in critical or commercial applications.
+> 
+> Please review all schematics, firmware, and configuration settings carefully before use. I welcome contributions, feedback, and improvements from the community!
 
 ---
 

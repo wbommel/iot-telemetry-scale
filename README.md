@@ -44,7 +44,7 @@ That's a quick wrapup of the history of the project and might be extended in the
 
 | Component | Description | Repository |
 |----------|-------------|------------|
-| 🧠 Firmware | ESP8266-based MQTT weight publisher | [iot-telemetry-scale-firmware](https://github.com/yourusername/iot-telemetry-scale-firmware) (in progress) |
+| 🧠 Firmware | ESP8266-based MQTT weight publisher | [iot-telemetry-scale-firmware](https://github.com/yourusername/iot-telemetry-scale-firmware) (done) |
 | 🔌 PCB | KiCad PCB design for ESP8266 + HX711 | [iot-telemetry-scale-pcb](https://github.com/yourusername/iot-telemetry-scale-pcb) (upcoming) |
 | 🧱 Housing | FreeCAD model of scale casing | [iot-telemetry-scale-housing](https://github.com/yourusername/iot-telemetry-scale-housing) (upcoming) |
 | 📸 Streamer | Python + PiCamera live MJPEG + snapshot handler | [iot-telemetry-scale-streamer](https://github.com/yourusername/iot-telemetry-scale-streamer) (upcoming) |

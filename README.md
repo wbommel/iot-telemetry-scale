@@ -7,7 +7,7 @@ The sub projects are in process of generalization and will be published one afte
 
 # IoT Telemetry Scale 📡⚖️
 
-A modular open-source system for wireless weight sensing (live telemetry, remote monitoring) — designed for small animals (for example with feeding stations as seen in the picture below) or general-purpose IoT measurement.
+A modular open-source system for wireless weight sensing (live telemetry, remote monitoring) — designed for small animals (for example for budgies with feeding station as seen in the picture below) or general-purpose IoT measurement.
 
 **This is the meta repository** linking all parts of the project ecosystem.
 

@@ -46,7 +46,7 @@ That's a quick wrapup of the history of the project and might be extended in the
 | Component | Description | Repository |
 |----------|-------------|------------|
 | 🧠 Firmware | ESP8266-based MQTT weight publisher | [iot-telemetry-scale-firmware](https://github.com/wbommel/iot-telemetry-scale-firmware) (done) |
-| 🔌 PCB | KiCad PCB design for ESP8266 + HX711 | [iot-telemetry-scale-pcb](https://github.com/wbommel/iot-telemetry-scale-pcb) (upcoming) |
+| 🔌 PCB | KiCad PCB design for ESP8266 + HX711 | [iot-telemetry-scale-pcb](https://github.com/wbommel/iot-telemetry-scale-pcb) (done) |
 | 🧱 Housing | FreeCAD model of scale casing | [iot-telemetry-scale-housing](https://github.com/wbommel/iot-telemetry-scale-housing) (upcoming) |
 | 📸 Streamer | Python + PiCamera live MJPEG + snapshot handler | [iot-telemetry-scale-streamer](https://github.com/wbommel/iot-telemetry-scale-streamer) (upcoming) |
 | 🔌 WeightDB Server | Node.js-based WebSocket JSON database | [iot-telemetry-scale-db](https://github.com/wbommel/iot-telemetry-scale-db) (upcoming) |
